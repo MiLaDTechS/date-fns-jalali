@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 <!-- ⚠️ If you think `newDate` month does not work correctly, please see this comment: https://github.com/date-fns-jalali/date-fns-jalali/issues/57#issuecomment-912950588 ⚠️ -->
 
 ## The problem
