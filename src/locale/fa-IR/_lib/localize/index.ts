@@ -64,7 +64,7 @@ const monthValues = {
 
 const dayValues = {
   narrow: ['ی', 'د', 'س', 'چ', 'پ', 'ج', 'ش'] as const,
-  short: ['1ش', '2ش', '3ش', '4ش', '5ش', 'ج', 'ش'] as const,
+  short: ['ش', 'د', 'س', 'چ', 'پ', 'ج', 'ی'] as const,
   abbreviated: [
     'یک‌شنبه',
     'دوشنبه',
